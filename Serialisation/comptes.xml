@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<banque>
+    <Comptes type="COURANT">
+        <code>1</code>
+        <solde>20008.0</solde>
+    </Comptes>
+    <Comptes type="EPARGNE">
+        <code>2</code>
+        <solde>56908.0</solde>
+    </Comptes>
+    <Comptes type="COURANT">
+        <code>3</code>
+        <solde>49768.0</solde>
+    </Comptes>
+</banque>
